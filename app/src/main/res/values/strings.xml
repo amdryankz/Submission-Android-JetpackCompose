@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmissionCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="add_to_fav">Add to Favorite</string>
+    <string name="empty_favorite">No Favorite Yet!</string>
+    <string name="error_loading_data">Error Loading Data</string>
+    <string name="empty_anime">Anime not Found</string>
+</resources>
